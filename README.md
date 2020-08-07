@@ -1,4 +1,4 @@
-### Alô Alô, marciano👋
+### Alô, Alô, marciano👋
 
 - 🔭 Atualmente trabalhando em "EPTA - Equipe de propulsão e tecnologia aeroespacial" e "PET Telecom"
 - 🌱 Estudante de Engenharia eletrônica e telecomunicações, aspirante a programador, às vezes estudante de segurança da informação
