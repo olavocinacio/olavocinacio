@@ -8,7 +8,6 @@
 - 📫 Você pode me encontrar em:
   - e-mail -> olavo1611@gmail.com
   - LinkedIn -> https://www.linkedin.com/in/olavo-c-inacio-465791163/
-- 😄 Pronouns: ...
 - ⚡ Curiosidade engraçada: Pratinha no lol =p
 
 - Linguagens de programação que me viro bem: C(e derivados), Python, JavaScript
