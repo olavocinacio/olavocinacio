@@ -1,6 +1,6 @@
 ### Alô, Alô, marciano👋
 
-- 🔭 Atualmente trabalhando em "EPTA - Equipe de propulsão e tecnologia aeroespacial" e "PET Telecom"
+- 🔭 Atualmente trabalhando em "EPTA - Equipe de propulsão e tecnologia aeroespacial" (desenvolvo programação de circuitos embarcados, jogos e sou responsável pela telemetria de nossos projetos) e "PET Telecom"
 - 🌱 Estudante de Engenharia eletrônica e telecomunicações, aspirante a programador, às vezes estudante de segurança da informação
 - 👯 Topo qualquer projeto doido desde que minha agenda permita (Tenho 2 ideias paradas, se quiser saber mais, me chama aí)
 - 🤔 Adoraria um mentor que me ajudasse a desenvolver soft skills
