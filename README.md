@@ -10,8 +10,8 @@
   - LinkedIn -> https://www.linkedin.com/in/olavo-c-inacio-465791163/
 - ⚡ Curiosidade engraçada: Pratinha no lol =p
 
-- Linguagens de programação que me viro bem: C(e derivados), Python, JavaScript
-- Linguagens que já brinquei mas não sou nenhum ninja: Processing, Java, outras
+- Linguagens de programação que me viro bem: C, C#, Python, JavaScript
+- Linguagens que já brinquei mas não sou nenhum ninja: Processing, Java, PHP, outras
 
 - I can actually speak english too, and it's not bad!
 - Je parle un peu de français aussi, mais ce n'est pas super!
