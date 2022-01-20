@@ -1,14 +1,13 @@
 ### Alô, Alô, marciano👋
 
-- 🔭 Atualmente trabalhando em "EPTA - Equipe de propulsão e tecnologia aeroespacial" (programador de circuitos embarcados, desenvolvedor jogos, responsável pela telemetria e gerente de pesquisa) e "PET Telecom"
-- 🌱 Estudante de Engenharia eletrônica e telecomunicações, aspirante a programador, às vezes estudante de segurança da informação
-- 👯 Topo qualquer projeto doido desde que minha agenda permita (Tenho 2 ideias paradas, se quiser saber mais, me chama aí)
-- 🤔 Adoraria um mentor que me ajudasse a desenvolver soft skills
+- 🔭 Atualmente engajado com "EPTA - Equipe de propulsão e tecnologia aeroespacial" (desenvolvedor de jogos e gerente de pesquisa) e "PET Telecom"
+- 🌱 Estudante de Engenharia eletrônica e telecomunicações (pela Universidade Federal de Uberlândia), aspirante a programador, às vezes estudante de segurança da informação 
+- 👯 Topo qualquer projeto doido desde que minha agenda permita 
 - 💬 Pergunte o que quiser, se eu souber a resposta, te direi. Caso contrário, procuraremos pela solução juntos.
+
 - 📫 Você pode me encontrar em:
   - e-mail -> olavo1611@gmail.com
   - LinkedIn -> https://www.linkedin.com/in/olavo-c-inacio-465791163/
-- ⚡ Curiosidade engraçada: Pratinha no lol =p
 
 - Linguagens de programação que me viro bem: C, C#, Python, JavaScript
 - Linguagens que já brinquei mas não sou nenhum ninja: Processing, Java, PHP, outras
